@@ -40,7 +40,7 @@ button{
 button:hover{
     color: rgb(255, 255, 255);
     background-color:rgb(243, 164, 17);
-     background:linear-gradient(orange , black);
+     background:linear-gradient(#1d7874 , black);
 }
 marquee{
     color: white;
